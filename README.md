@@ -14,5 +14,5 @@ Run all experiments following the order specified in the index. For ml_basics, r
 
 ## Installation
 
-Jupyter lab can be started by running the start.bat in windows else run thr below to setup the env:
+Jupyter lab can be started by running the start.bat in windows else run the below to setup the env:
 pip install -r requirements.txt
