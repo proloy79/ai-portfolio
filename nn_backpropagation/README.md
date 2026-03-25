@@ -1,8 +1,8 @@
 # Back propagation concepts
 
-[![Open In Colab - ml_basics](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/proloy79/nn_backpropagation/blob/main/notebooks/ml_basics.ipynb)
+[![Open In Colab - ml_basics](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/proloy79/ai-portfolio/blob/main/nn_backpropagation/notebooks/ml_basics.ipynb)
 **ml_basics**
-[![Open In Colab - ml_experiments](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/proloy79/nn_backpropagation/blob/main/notebooks/ml_experiments.ipynb)
+[![Open In Colab - ml_experiments](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/proloy79/ai-portfolio/blob/main/nn_backpropagation/notebooks/ml_experiments.ipynb)
 **ml_experiments**
 ## Overview
 
