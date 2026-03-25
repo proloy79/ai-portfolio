@@ -1,6 +1,6 @@
 # Incident Agent
 
-[![Open In Colab - incident agent runner](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/proloy79/incident_agent/blob/main/notebooks/incident_agent_runner.ipynb)
+[![Open In Colab - incident agent runner](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/proloy79/ai-portfolio/blob/main/incident_agent/notebooks/incident_agent_runner.ipynb)
 
 This project is an example of agentic AI - a software that suggests solutions based on previous results and can take action by calling tools based on the generated plan.
 
