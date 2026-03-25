@@ -1,8 +1,8 @@
 # Gradient Descent Concepts
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/proloy79/gd_optimisation/blob/main/notebooks/gradient_descent_concepts.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/proloy79/ai-portfolio/blob/main/gd_optimisation/notebooks/gradient_descent_concepts.ipynb)
 **Gradient_descent_concepts**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/proloy79/gd_optimisation/blob/main/notebooks/gradient_descent_summary_and_experiments.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/proloy79/ai-portfolio/blob/main/gd_optimisation/notebooks/gradient_descent_summary_and_experiments.ipynb)
 **Gradient_descent_summary_and_experiments**
 ## Overview
 
