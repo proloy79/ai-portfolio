@@ -1,8 +1,8 @@
 # attoLLM
 
-[![Open In Colab - llm_basics](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/proloy79/attoLLM/blob/main/notebooks/llm_basics.ipynb)
+[![Open In Colab - llm_basics](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/proloy79/ai-portfolio/blob/main/attoLLM/notebooks/llm_basics.ipynb)
 **llm_basics**
-[![Open In Colab - llm_experiments](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/proloy79/attoLLM/blob/main/notebooks/llm_experiments.ipynb)
+[![Open In Colab - llm_experiments](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/proloy79/ai-portfolio/blob/main/attoLLM/notebooks/llm_experiments.ipynb)
 **llm_experiments**
 
 ## Overview
